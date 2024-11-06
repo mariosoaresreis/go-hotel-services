@@ -10,5 +10,3 @@ ASSUMPTIONS AND DECISIONS
 - (linux) To start the application type ./start.sh in the root directory
 - if I had more time, I would implement cache and graphQL features
 - Based on rules contained in file exercise.md
-
-
